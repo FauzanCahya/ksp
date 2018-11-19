@@ -302,6 +302,8 @@
                            <h3 class="menu-title">Menu</h3>
                             <!-- <li><a href="form-basic.html">Transaksi Akuntansi</a></li> -->
                             <li><a href="<?php echo base_url(); ?>sap/perintah_kerja_c">Perintah Kerja (PK)</a></li>
+                            <li><a href="<?php echo base_url(); ?>sap/mass_pro_c">Master Produksi</a></li>
+                            <li><a href="<?php echo base_url(); ?>sap/so_c">SO</a></li>
                             <li><a href="<?php echo base_url(); ?>sap/perintah_kerja_roll_c">Perintah Kerja Roll</a></li>
                             <li><a href="<?php echo base_url(); ?>sap/perintah_kerja_printing_c">Perintah Kerja Printing</a></li>
                             <li><a href="<?php echo base_url(); ?>sap/perintah_kerja_potong_c">Perintah Kerja Potong</a></li>

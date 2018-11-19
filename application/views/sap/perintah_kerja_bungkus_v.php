@@ -501,7 +501,7 @@ function bs_fc(kali){
 										</tbody>
 
 										<tr>
-											<td colspan="5"><button type="button" class="btn btn-success" onclick="tb_bahan_baku();">Tambah Bahan Baku</button></td>
+											<td colspan="5"><button type="button" class="btn btn-success" onclick="tb_bahan_baku();">Input Hasil</button></td>
 										</tr>
 									</thead>
 								</table>
